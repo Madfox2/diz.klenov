@@ -1,0 +1,193 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dez.com" resolutions="1x" timestamp="1543755854875">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4032014971" ref="index"/>
+    <file name="portfolio.css" crc="37708533" ref="portfolio"/>
+  </folder>
+  <folder name="fonts">
+    <file name="comfortaa-regular.woff" crc="316849284"/>
+    <file name="comfortaa-regular.eot" crc="153169513"/>
+    <file name="comfortaa-regular.svg" crc="230728108"/>
+    <file name="comfortaa-bold.woff" crc="65140269"/>
+    <file name="comfortaa-bold.eot" crc="3859449921"/>
+    <file name="comfortaa-bold.svg" crc="3837503896"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio"/>
+    <file name="museutils.js" crc="3803043152" ref="index:portfolio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio"/>
+    <file name="museconfig.js" crc="380897831" ref="index:portfolio"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio"/>
+    <file name="require.js" crc="4157109226" ref="index:portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="iconfinder_sofa-couch-relax-rest-furniture_3954612.svg" crc="403666449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconfinder_sofa-couch-relax-rest-furniture_3954612_poster_.png" crc="372370862" ref="index"/>
+    <file name="sofa.svg" crc="4106207589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sofa_poster_.png" crc="3770484390" ref="index"/>
+    <file name="decorating.svg" crc="134595355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="decorating_poster_.png" crc="394687113" ref="index"/>
+    <file name="e_medteh.jpg" crc="4245533206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a_ispolcom.jpg" crc="4154399554" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b_kolodic.jpg" crc="422597761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b_gost.jpg" crc="155331188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c_pyatnica.jpg" crc="4015184599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a.jpg" crc="4000949765" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="savvar1-1.jpg" crc="3811143210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="living-room.svg" crc="4163893302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="living-room_poster_.png" crc="394249333" ref="index"/>
+    <file name="houses.svg" crc="184775427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="houses_poster_.png" crc="119605197" ref="index"/>
+    <file name="landscape.svg" crc="471751417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landscape_poster_.png" crc="434758944" ref="index"/>
+    <file name="sketch.svg" crc="453992729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sketch_poster_.png" crc="3799065459" ref="index"/>
+    <file name="mobile-phone.svg" crc="3974467447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobile-phone_poster_.png" crc="100656789" ref="index"/>
+    <file name="viber-(1).svg" crc="3867226290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="viber (1)_poster_.png" crc="487822585" ref="index"/>
+    <file name="telephone-of-old-design.svg" crc="3829131757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telephone-of-old-design_poster_.png" crc="308424106" ref="index"/>
+    <file name="arroba.svg" crc="3955515101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arroba_poster_.png" crc="4207111226" ref="index"/>
+    <file name="location-point.svg" crc="4037008966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="location-point_poster_.png" crc="4049551563" ref="index"/>
+    <file name="facebook-logo-in-circular-button-outlined-social-symbol.svg" crc="3938669484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-logo-in-circular-button-outlined-social-symbol_poster_.png" crc="336317664" ref="index"/>
+    <file name="twitter-circular-button.svg" crc="263415090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-circular-button_poster_.png" crc="76648193" ref="index"/>
+    <file name="vk-logo-of-social-network.svg" crc="3827602201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk-logo-of-social-network_poster_.png" crc="55250853" ref="index"/>
+    <file name="pinterest.svg" crc="457796248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest_poster_.png" crc="92326358" ref="index"/>
+    <file name="google-plus-circular-button.svg" crc="4023134815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="google-plus-circular-button_poster_.png" crc="256923111" ref="index"/>
+    <file name="social-linkedin-circular-button.svg" crc="3807276916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social-linkedin-circular-button_poster_.png" crc="3862880224" ref="index"/>
+    <file name="instagram.svg" crc="60430450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram_poster_.png" crc="516716147" ref="index"/>
+    <file name="d_aks.jpg" crc="218812982" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="c_pyatnica2.jpg" crc="4286651462" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a_ship.jpg" crc="509119491" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="b_dets.jpg" crc="220719906" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="b_gost2.jpg" crc="3934873229" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="b_zal.jpg" crc="393962191" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a_ivanovo.jpg" crc="4175605521" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a2.jpg" crc="3868530653" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arh1.jpg" crc="241464996" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="c_diana.jpg" crc="286631456" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a_dom.jpg" crc="247304262" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="14.jpg" crc="329729584" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a_ispolcom2.jpg" crc="19920456" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="b_kolodic2.jpg" crc="4012793232" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="c_salon.jpg" crc="4141778581" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="e_aks-crop-u1705.jpg" crc="282354043" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4280861232" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d_kitcen1.jpg" crc="4243938600" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tort1.jpg" crc="3789334971" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="e_medteh2.jpg" crc="247155367" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="motol1.jpg" crc="3855548604" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="savvar1-12.jpg" crc="4282157954" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ss15.jpg" crc="4271286858" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="316328987" seo="true" mt="1543755806039" redirect="true"/>
+  <file name="portfolio.html" crc="4102688298" seo="true" mt="1543755672421" redirect="true"/>
+</manifest>
