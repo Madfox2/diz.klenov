@@ -1,8 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dez.com" resolutions="1x" timestamp="1543755854875">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dez.com" resolutions="1x" timestamp="1544210256983">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4032014971" ref="index"/>
+    <file name="fishman.css" crc="4093697499" ref="fishman"/>
     <file name="portfolio.css" crc="37708533" ref="portfolio"/>
+    <file name="index.css" crc="525996943" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="comfortaa-regular.woff" crc="316849284"/>
@@ -13,12 +14,13 @@
     <file name="comfortaa-bold.svg" crc="3837503896"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio"/>
-    <file name="museutils.js" crc="3803043152" ref="index:portfolio"/>
-    <file name="whatinput.js" crc="86476730" ref="index:portfolio"/>
-    <file name="museconfig.js" crc="380897831" ref="index:portfolio"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio"/>
-    <file name="require.js" crc="4157109226" ref="index:portfolio"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:fishman"/>
+    <file name="museutils.js" crc="3803043152" ref="index:portfolio:fishman"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:fishman"/>
+    <file name="museconfig.js" crc="380897831" ref="index:portfolio:fishman"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio:fishman"/>
+    <file name="require.js" crc="4157109226" ref="index:portfolio:fishman"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="fishman"/>
   </folder>
   <folder name="images">
     <file name="iconfinder_sofa-couch-relax-rest-furniture_3954612.svg" crc="403666449" seo="true" ref="index">
@@ -33,25 +35,25 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="decorating_poster_.png" crc="394687113" ref="index"/>
-    <file name="e_medteh.jpg" crc="4245533206" seo="true" ref="index">
+    <file name="e_medteh.jpg" crc="3838613522" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a_ispolcom.jpg" crc="4154399554" seo="true" ref="index">
+    <file name="a_ispolcom.jpg" crc="4246932640" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b_kolodic.jpg" crc="422597761" seo="true" ref="index">
+    <file name="b_kolodic.jpg" crc="3844233744" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b_gost.jpg" crc="155331188" seo="true" ref="index">
+    <file name="b_gost.jpg" crc="3923050323" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c_pyatnica.jpg" crc="4015184599" seo="true" ref="index">
+    <file name="c_pyatnica.jpg" crc="381295337" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a.jpg" crc="4000949765" seo="true" ref="index">
+    <file name="a.jpg" crc="202675172" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="savvar1-1.jpg" crc="3811143210" seo="true" ref="index">
+    <file name="savvar1-1.jpg" crc="4247643871" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="living-room.svg" crc="4163893302" seo="true" ref="index">
@@ -82,10 +84,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="telephone-of-old-design_poster_.png" crc="308424106" ref="index"/>
-    <file name="arroba.svg" crc="3955515101" seo="true" ref="index">
+    <file name="arroba-(1).svg" crc="301336483" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="arroba_poster_.png" crc="4207111226" ref="index"/>
+    <file name="arroba (1)_poster_.png" crc="202861034" ref="index"/>
     <file name="location-point.svg" crc="4037008966" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -187,7 +189,20 @@
     <file name="ss15.jpg" crc="4271286858" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="c_aks (1).jpg" crc="4093348320" ref="fishman">
+      <caption webpage="fishman" alt=""/>
+    </file>
+    <file name="d_aks2.jpg" crc="45682517" ref="fishman">
+      <caption webpage="fishman" alt=""/>
+    </file>
+    <file name="a_aks.jpg" crc="4029269537" ref="fishman">
+      <caption webpage="fishman" alt=""/>
+    </file>
+    <file name="e_aks (1).jpg" crc="215580752" ref="fishman">
+      <caption webpage="fishman" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="316328987" seo="true" mt="1543755806039" redirect="true"/>
-  <file name="portfolio.html" crc="4102688298" seo="true" mt="1543755672421" redirect="true"/>
+  <file name="index.html" crc="3849942721" seo="true" mt="1544209459535" redirect="true"/>
+  <file name="portfolio.html" crc="3961126440" seo="true" mt="1544210231620" redirect="true"/>
+  <file name="fishman.html" crc="3974087514" seo="true" mt="1544210199553" redirect="true"/>
 </manifest>

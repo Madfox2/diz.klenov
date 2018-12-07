@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dez.com/index.html</loc>
-    <lastmod>2018-12-02</lastmod>
+    <lastmod>2018-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -57,7 +57,7 @@
       <image:loc>http://dez.com/images/telephone-of-old-design.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dez.com/images/arroba.svg</image:loc>
+      <image:loc>http://dez.com/images/arroba-(1).svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dez.com/images/location-point.svg</image:loc>
@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>http://dez.com/portfolio.html</loc>
-    <lastmod>2018-12-02</lastmod>
+    <lastmod>2018-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -158,5 +158,11 @@
     <image:image>
       <image:loc>http://dez.com/images/ss15.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://dez.com/fishman.html</loc>
+    <lastmod>2018-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
